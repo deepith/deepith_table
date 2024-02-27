@@ -4,7 +4,7 @@ import { PiClockCountdown } from "react-icons/pi"; ///importing all the icons fr
 import { HiOutlineDotsVertical } from "react-icons/hi";
 import { SlCalender } from "react-icons/sl";
 
-export const Table = () => {
+export const TableRow = () => {
   const colors = [
     "bg-red-300",
     "bg-blue-300",

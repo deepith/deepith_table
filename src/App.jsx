@@ -1,10 +1,10 @@
-import { Table } from "./Components/TableRow";
+import { TableRow } from "./Components/TableRow";
 
 function App() {
   return (
     <>
       <div>
-        <Table />
+        <TableRow />
       </div>
     </>
   );
